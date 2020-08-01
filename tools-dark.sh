@@ -28,7 +28,7 @@ echo $ungu "
 \033[1;93m ██ ██
 \033[1;93m╔════════════════════════════════════════════╗
 \033[1;93m║\033[1;96m* \033[1;93mAuthor  \033[1;93m: \033[1;93mANKER PRODUCTION  \033[1;93m              ║
-\033[1;93m║\033[1;96m* \033[1;93mYoutube  \033[1;93m: \033[1;93m\033[4mAnker Production\033[0m \033[1;93m      ║
+\033[1;93m║\033[1;96m* \033[1;93mYoutube  \033[1;93m: \033[1;93m\033[4mAnker Production\033[0m \033[1;93m         ║
 \033[1;93m╚════════════════════════════════════════════╝"""
 echo $ungu "
 ===================================="
@@ -56,7 +56,7 @@ gem install lolcat
 pip2 install requests
 pip2 install mechanize
 pip2 install requirements
-git clone https://github.com/4NK3R-PRODUCTION/PEMULA
+git clone https://github.com/4NK3R-PRODUCT1ON/PEMULA
 cd PEMULA
 ls
 sh pemula.sh
